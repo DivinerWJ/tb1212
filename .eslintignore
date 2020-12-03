@@ -1,0 +1,3 @@
+
+src/assets/*   // src/assets下的文件不校验
+src/main.js
